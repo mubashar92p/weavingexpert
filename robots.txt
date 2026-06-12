@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://weavingexpert.github.io/sitemap.xml
